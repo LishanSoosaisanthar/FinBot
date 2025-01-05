@@ -71,7 +71,13 @@ graph TB
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the application:
+4. Set up your OpenAI API key:
+   - Create a `.env` file in the root directory
+   - Add your OpenAI API key:
+     ```
+     OPENAI_API_KEY=your_api_key_here
+     ```
+5. Run the application:
    ```bash
    streamlit run main.py
    ```
