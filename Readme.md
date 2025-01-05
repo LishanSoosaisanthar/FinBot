@@ -59,7 +59,6 @@ graph TB
 1. Clone the repository:
    ```bash
    git clone
-   cd finbot
    ```
 2. Set up a virtual environment:
    ```bash
