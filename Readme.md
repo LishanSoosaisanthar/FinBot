@@ -99,6 +99,10 @@ OpenAI
 pymupdf
 langchain-community
 langchain_openai 
+statsmodels
+openpyxl
+matplotlib
+seaborn
 ```
 
 ---
