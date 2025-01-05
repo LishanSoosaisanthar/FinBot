@@ -1,4 +1,3 @@
-
 # FinBot: Your Financial Analyst 📄
 
 An AI-powered financial document analysis tool built with **Streamlit** and **LangChain**.
@@ -114,4 +113,15 @@ langchain_openai
 3. **AI Insights**: Receive AI-generated insights and analyses in real time.
 
 ---
+
+## 📊 Survey Analysis
+
+The project includes a comprehensive survey analysis conducted as part of a master thesis research:
+
+- `survey_evaluation.ipynb`: Jupyter notebook containing analysis of the survey responses
+- `responses.xlsx`: Raw survey response data
+- Analysis can be run using Anaconda environment or Google Colab
+
+---
+
 Happy Analyzing! 🎉
